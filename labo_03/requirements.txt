@@ -1,0 +1,8 @@
+# ==============================================================================
+# UNSAAC - Robótica: Laboratorio 03 (ESP32 + HC-SR04)
+# Dependencias de Python para monitoreo, adquisición y análisis
+# ==============================================================================
+pyserial>=3.5
+matplotlib>=3.5.0
+numpy>=1.20.0
+pytest>=7.0.0

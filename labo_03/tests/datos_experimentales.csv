@@ -1,0 +1,32 @@
+Distancia_Nominal_Regla_cm,Distancia_Medida_Sensor_cm,Repeticion,Observaciones
+0.0,0.00,1,Objeto pegado a los transductores (zona ciega)
+0.0,0.00,2,Objeto pegado a los transductores (zona ciega)
+2.0,0.00,1,Zona de tolerancia (menor a 3.0 cm -> 0.00 cm)
+2.0,0.00,2,Zona de tolerancia (menor a 3.0 cm -> 0.00 cm)
+5.0,5.08,1,Medicion normal estable
+5.0,5.05,2,Medicion normal estable
+10.0,10.04,1,Medicion normal
+10.0,10.09,2,Medicion normal
+11.0,11.11,1,Prueba representativa del informe de laboratorio
+11.0,11.11,2,Lectura repetitiva documentada en Figura 10
+11.0,11.12,3,Verificacion experimental
+15.0,15.15,1,Medicion normal
+15.0,15.10,2,Medicion normal
+20.0,20.18,1,Medicion con regla graduada
+20.0,20.22,2,Medicion con regla graduada
+30.0,30.25,1,Medicion intermedia
+30.0,30.30,2,Medicion intermedia
+40.0,40.35,1,Medicion intermedia
+40.0,40.40,2,Medicion intermedia
+50.0,50.45,1,Medicion media escala
+50.0,50.50,2,Medicion media escala
+60.0,60.55,1,Medicion en banco de pruebas
+60.0,60.62,2,Medicion en banco de pruebas
+70.0,70.68,1,Medicion de largo alcance
+70.0,70.75,2,Medicion de largo alcance
+80.0,80.80,1,Medicion de largo alcance
+80.0,80.85,2,Medicion de largo alcance
+90.0,90.92,1,Medicion limite practico
+90.0,90.98,2,Medicion limite practico
+100.0,101.05,1,Limite maximo de deteccion experimental
+100.0,101.10,2,Limite maximo de deteccion experimental
